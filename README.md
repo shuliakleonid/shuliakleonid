@@ -1,5 +1,7 @@
- #  Hi, I’m Shuliak Leonid!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
- 
+![Shuliak Leonid](https://github.com/shuliakleonid/rsschool-cv/blob/master/Name.png "Shuliak Leonid")
+
+#  Hi, I’m Shuliak Leonid!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+
  ## My website [Portfolio](https://shuliakleonid.github.io/Portfolio/)
  
  
