@@ -18,6 +18,7 @@ I’m a Front End Developer living in Minsk experienced in building responsive, 
 shuliakleonid/shuliakleonid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Skill](https://github.com/shuliakleonid/rsschool-cv/blob/master/skills.jpg "Skill")
 ### 🤝🏻 &nbsp;Connect with Me
 
 
