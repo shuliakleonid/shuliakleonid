@@ -1,10 +1,13 @@
+
+
 ![Shuliak Leonid](https://github.com/shuliakleonid/rsschool-cv/blob/master/Name.png "Shuliak Leonid")
 
-#  Hi, I’m Shuliak Leonid!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+#  Hi, There!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 
  
-I’m a Front End Developer living in Minsk experienced in building responsive, accessible websites and web applications using React, Typescript and Redux.
+## I’m a Front End Developer living in Minsk experienced in building responsive, accessible websites and web applications using React, Typescript and Redux.
+## I'm keen on solving katas on 💻 [codewars](https://www.codewars.com/users/zeleny) and watching IT-conferences. 
 <!---
 
 - 👀 I’m interested in ...
@@ -13,12 +16,14 @@ I’m a Front End Developer living in Minsk experienced in building responsive, 
 - 📫 How to reach me ...
 -  ## My website [Portfolio](https://shuliakleonid.github.io/Portfolio/)
 ### 🛠 &nbsp;Tech Stack
-![Skill](https://github.com/shuliakleonid/rsschool-cv/blob/master/skills.jpg "Skill")
+![Skill](https://github.com/shuliakleonid/rsschool-cv/blob/master/skills.jpg  "Skill")
 
 shuliakleonid/shuliakleonid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### 🛠 &nbsp;Tech Stack
 ![Skill](https://github.com/shuliakleonid/rsschool-cv/blob/master/skills.jpg "Skill")
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 
