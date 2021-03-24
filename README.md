@@ -9,7 +9,7 @@
 ## I’m a Front End Developer living in Minsk experienced in building responsive, accessible websites and web applications using React, Typescript and Redux.
 ## I'm keen on solving katas on 💻 [codewars](https://www.codewars.com/users/zeleny) and watching IT-conferences. 
 ## 💼 [Portfolio](https://shuliakleonid.github.io/Portfolio/)
-## 📋 [CV](https://github.com/viktoriabakun/viktoriabakun/blob/main/Viktoryia_Bakun_CV.pdf)
+## 📋 [CV](https://github.com)
 <!---
 
 - 👀 I’m interested in ...
