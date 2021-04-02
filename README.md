@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ### 🛠 &nbsp;Tech Stack
 ![Skill](https://github.com/shuliakleonid/rsschool-cv/blob/master/skills.png "Skill")
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me!
 
 
 <p align="center">
