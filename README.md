@@ -31,8 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-	<a href="https://github.com/shuliakleonid"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/leonid-shuliak/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/100007344315102"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/leonidshuliak"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://www.linkedin.com/in/leonid-shuliak/"><img alt="linkedin" width='55' height='60' style="padding:5px" src="https://github.com/shuliakleonid/rsschool-cv/blob/master/in.png"/></a>
+	<a href="https://www.facebook.com/100007344315102"><img alt="facebook" width='55' height='60' style="padding:5px" src="https://github.com/shuliakleonid/rsschool-cv/blob/master/in.png"/></a>
+	<a href="https://t.me/leonid_shuliak"><img src="https://github.com/shuliakleonid/rsschool-cv/blob/master/teleg.png" alt="Telegram" width='55' height='60'/></a>
 </p>
