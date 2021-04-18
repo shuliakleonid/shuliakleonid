@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/leonid-shuliak/"><img alt="linkedin" width='55' height='60' style="padding:5px" src="https://github.com/shuliakleonid/rsschool-cv/blob/master/in.png"/></a>
-	<a href="https://www.facebook.com/100007344315102"><img alt="facebook" width='55' height='60' style="padding:5px" src="https://github.com/shuliakleonid/rsschool-cv/blob/master/in.png"/></a>
+	<a href="https://www.facebook.com/100007344315102"><img alt="facebook" width='55' height='60' style="padding:5px" src="https://github.com/shuliakleonid/rsschool-cv/blob/master/face.png"/></a>
 	<a href="https://t.me/leonid_shuliak"><img src="https://github.com/shuliakleonid/rsschool-cv/blob/master/teleg.png" alt="Telegram" width='55' height='60'/></a>
 </p>
