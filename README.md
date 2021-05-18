@@ -24,7 +24,7 @@ shuliakleonid/shuliakleonid is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-### &nbsp;Tech Stack
+### &nbsp;Tech Stack!
 <img src="https://github.com/shuliakleonid/rsschool-cv/blob/master/skills.png" alt="Skills" width='540' height='135'>
 
 ### &nbsp; Connect with Me!
